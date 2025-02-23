@@ -7,7 +7,7 @@
 
 ---
 
-## 🌸 Tentang Saya
+## 🌸 About Me
 I really love pink! Here's my fav:
 - `#FFC0CB` (Pink)  
 - `#FF69B4` (Hot Pink)  
@@ -17,14 +17,14 @@ I really love pink! Here's my fav:
 
 ## 🛠️ Skill & Tools
 - **Bahasa Pemrograman**: Python, SQL, HTML, CSS, JavaScript  
-- **Database**: MySQL (pengelolaan database)  
+- **Database**: MySQL  
 - **Tools**: Visual Studio Code, XAMPP, Git  
 - **Lainnya**: Pengembangan web dasar, manajemen database  
 
 ---
 
-## 🌐 Hubungi Saya
-Jangan ragu untuk menghubungi saya melalui platform berikut:  
+## 🌐 Connect with Me
+Jangan ragu untuk menghubungi saya melalui:  
 📧 Email: [nabilaszf@gmail.com](mailto:nabilaszf@gmail.com)  
 📝 Medium: [Bila di Medium](https://medium.com/@nabilaszf)  
 📸 Instagram: [@bilasyz](https://instagram.com/bilasyz)  
