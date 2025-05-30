@@ -1,9 +1,13 @@
 # 👋 Hello everyone, my name is Bila!
 
 🎓 I'm an undergraduate student majoring in Information Technology at Tidar University.
+
 💻 I enjoy coding and have experience with several programming languages, including Python, SQL, HTML, CSS, and JavaScript.
+
 🗃️ I'm passionate about database management and often use XAMPP for web development projects.
+
 🛠️ My go-to tools are Visual Studio Code, XAMPP, and Git.
+
 🔭 Projects: Check out my repositories below!
 
 ---
