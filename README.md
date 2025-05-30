@@ -1,9 +1,9 @@
 # 👋 Hello everyone, my name is Bila!
 
 🎓 Saya adalah mahasiswa di Program Studi S-1 Teknologi Informasi, **Universitas Tidar**.  
-💻 Saya memiliki kemampuan dalam bahasa pemrograman **Python**, **SQL**, **HTML**, **CSS**, dan **JavaScript**.  
+💻 Saya menguasai beberapa bahasa pemrograman, seperti **Python**, **SQL**, **HTML**, **CSS**, dan **JavaScript**.  
 🗃️ Saya suka mengelola database dan memiliki pengalaman menggunakan **XAMPP** untuk pengembangan web.  
-🛠️ Alat yang sering saya gunakan: **Visual Studio Code**, **XAMPP**, dan **Git**.
+🛠️ Tools yang sering saya gunakan: **Visual Studio Code**, **XAMPP**, dan **Git**.
 
 ---
 
@@ -23,8 +23,7 @@ I really love pink! Here's my fav:
 
 ---
 
-## 🌐 Connect with Me
-Jangan ragu untuk menghubungi saya melalui:  
+## 🌐 Connect with Me  
 📧 Email: [nabilaszf@gmail.com](mailto:nabilaszf@gmail.com)  
 📝 Medium: [Bila di Medium](https://medium.com/@nabilaszf)  
 📸 Instagram: [@bilasyz](https://instagram.com/bilasyz)  
@@ -33,4 +32,5 @@ Jangan ragu untuk menghubungi saya melalui:
 
 ---
 
-✨ **Terima kasih sudah mengunjungi profil GitHub saya!** ✨
+✨ **Thank you!** ✨
+With love, Bila. 💗
